@@ -1,6 +1,6 @@
 import './style.css'
 
-const apiKey = '9adae111057b4e8d9df034f78bf4b0e7';
+const apiKey = '';
 document.body.style.margin = "0";
 document.body.style.fontFamily = "sans-serif";
 document.body.style.transition = "background 0.5s ease";
